@@ -1,6 +1,6 @@
 pytelegrambotapi
 gtts
 praw
-urllib.request
+urllib
 os
 telegram
