@@ -1,0 +1,7 @@
+pytelegrambotapi
+gtts
+praw
+json
+urllib.request
+os
+telegram
