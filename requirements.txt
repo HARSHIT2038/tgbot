@@ -1,6 +1,5 @@
 pytelegrambotapi
 gtts
 praw
-urllib
 os
 telegram
